@@ -1,0 +1,4 @@
+# Data Files
+Deep_Learning/digit-recognizer/
+*.csv
+*.ipynb
